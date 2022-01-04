@@ -21,8 +21,8 @@
 
 ### Front-end
 
-<img width="500" alt="img" src="https://github.com/siangyin/MERN-01-beginner/blob/main/refImg/home.png?raw=true">
+<!-- <img width="500" alt="img" src="https://github.com/siangyin/MERN-01-beginner/blob/main/refImg/home.png?raw=true"> -->
 
 ### Back-end
 
-<img width="500" alt="img" src="https://github.com/siangyin/MERN-01-beginner/blob/main/refImg/back-end.png?raw=true">
+<!-- <img width="500" alt="img" src="https://github.com/siangyin/MERN-01-beginner/blob/main/refImg/back-end.png?raw=true"> -->
