@@ -2,9 +2,9 @@ const express = require("express");
 const { modelNames } = require("mongoose");
 const router = express.Router();
 
-// @route   GET api/users
-// @desc    test route
+// @route   POST api/users
+// @desc    REGISTER route
 // @access  Public
-router.get("/", (req, res) => res.send("posts route"));
+router.post("/", (req, res) => {res.send("posts route")});
 
 module.exports = router;
